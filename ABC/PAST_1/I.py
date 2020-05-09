@@ -23,4 +23,4 @@ if dp[-1]==float('inf'):
   print(-1)
 else:
   print(dp[-1])
-print('I love Noguchi')
+print('Noguchi')
